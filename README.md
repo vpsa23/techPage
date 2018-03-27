@@ -1,4 +1,7 @@
-# SINGLE PAGE APPLICATION 
+# SINGLE PAGE APPLICATION(https://vpsa23.github.io/techPage/)
+![Diseño / Sketching](CapturaPrincipal.PNG)
+
+TechPage es un aplicación para hacer comprar, ver descripcion y precios de distintos productos de tecnología
 
 version 1.0.0
 Creating by
@@ -6,10 +9,12 @@ Creating by
 * Yasna Valenzuela-> https://github.com/yasValenzuela
 * Constanza Echeverría -> https://github.com/conois
 
-Single page application with shoping cart and Integrated Payment System 
 
 ###  Resources 
 
-Library: page.js https://visionmedia.github.io/page.js/
-Integrated Payment System : 
+ + Library: page.js https://visionmedia.github.io/page.js/
+ + Jquery
+ + Css3
+ + Html5
+
 
